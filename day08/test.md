@@ -45,7 +45,7 @@ Instructions: create a new repository called ng-ds-test. Within this repo, creat
   c. Controller  
   d. $http  
 
-14. In order to create a service, you must use the following angular function:
+14. In order to create a service, you must use the following angular function:  
   a. angularApp.controller  
   b. angularApp.module  
   c. angularApp.directive  
