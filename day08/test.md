@@ -31,24 +31,24 @@ Instructions: create a new repository called ng-ds-test. Within this repo, creat
 
 8. What is an angular directive?
 
-9. When specifying an angular directive, you write a function which must return an object called:
-a. Directive Constructor
-b. Fidel y Chavez Object
-c. Directive Definition object
-d. Directive Object
+9. When specifying an angular directive, you write a function which must return an object called:  
+  a. Directive Constructor  
+  b. Fidel y Chavez Object  
+  c. Directive Definition object  
+  d. Directive Object  
 
 10. What is the relationship between html, the $scope construct, and angular expressions? (Expressions are the ones that are written like so: {{quote}} ).
 
-11. In order to send ajax requests in Angular, you need to create an angular:
-a. Module  
-b. Service
-c. Controller
-d. $http
+11. In order to send ajax requests in Angular, you need to create an angular:  
+  a. Module    
+  b. Service  
+  c. Controller  
+  d. $http  
 
 12. In order to create a service, you must use the following angular function:
-a. angularApp.controller
-b. angularApp.module
-c. angularApp.directive
-d. angularApp.factory
+  a. angularApp.controller  
+  b. angularApp.module  
+  c. angularApp.directive  
+  d. angularApp.factory  
 
 13. Go to my [angular projects github repo](https://github.com/Swolebrain/ng-starter-projects) and do one of them. Don't clone the repository, but rather add all the files to the folder which corresponds to your github repo. Add the files right at the root of your repo, not within a subfolder.
