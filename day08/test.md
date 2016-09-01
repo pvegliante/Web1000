@@ -16,12 +16,11 @@ Instructions: create a new repository called ng-ds-test. Within this repo, creat
 5. Now add 29. Is the tree balanced? If not, which rotation needs to be done? (Use the following rotation as an example: rightRotation(30), or leftRotation(10))
 
 6. Consider the following tree:    
-------5  
----2-----8  
--1--3  
+  ------5  
+  ---2-----8  
+  -1--3  
 
-
-Now add 0 to the tree. Which one is the first node to go out of balance?
+  Now add 0 to the tree. Which one is the first node to go out of balance?
 
 
 7. How do you fix this node? (Use the following rotation as an example: rightRotation(30), or leftRotation(10))
