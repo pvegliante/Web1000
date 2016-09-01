@@ -46,4 +46,10 @@ b. Service
 c. Controller
 d. $http
 
-12. Go to my [angular projects github repo](https://github.com/Swolebrain/ng-starter-projects) and do one of them. Don't clone the repository, but rather add all the files to the folder which corresponds to your github repo. Add the files right at the root of your repo, not within a subfolder.
+12. In order to create a service, you must use the following angular function:
+a. angularApp.controller
+b. angularApp.module
+c. angularApp.directive
+d. angularApp.factory
+
+13. Go to my [angular projects github repo](https://github.com/Swolebrain/ng-starter-projects) and do one of them. Don't clone the repository, but rather add all the files to the folder which corresponds to your github repo. Add the files right at the root of your repo, not within a subfolder.
