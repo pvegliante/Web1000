@@ -39,7 +39,7 @@ Instructions: create a new repository called ng-ds-test. Within this repo, creat
 
 12. What is the relationship between html, the $scope construct, and angular expressions? (Expressions are the ones that are written like so: {{quote}} ).
 
-13. In order to send ajax requests in Angular, you need to create an angular:  
+13. In order to send ajax requests in Angular, the most accepted programming convention is to create an angular:  
   a. Module    
   b. Service  
   c. Controller  
