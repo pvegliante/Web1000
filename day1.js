@@ -129,11 +129,7 @@ function doesntContain(arr, theThing){
 /* 22) Write a function that receives an array of numbers and returns
 the average of those numbers*/
 function getAvg(arr){
-    var sum = 0;
-    for (var i = 0; i < arr.length; i++){
-      sum = sum + arr[i];
-    }
-    return sum/arr.length;
+    
 }
 
 
