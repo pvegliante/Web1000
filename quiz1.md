@@ -44,5 +44,5 @@
 8. Solve https://codility.com/programmers/lessons/3-time_complexity/frog_jmp/
   Submit the screenshot of your solution after being put through the codility grader.
 
-9. Solve https://codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
+9. Solve https://codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
   Submit a screenshot of your solution after being put through the codility grader.
