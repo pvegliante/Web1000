@@ -51,4 +51,4 @@ Instructions: create a new repository called ng-ds-test. Within this repo, creat
   c. angularApp.directive  
   d. angularApp.factory  
 
-15. Go to my [angular projects github repo](https://github.com/Swolebrain/ng-starter-projects) and do one of them. Don't clone the repository, but rather add all the files to the folder which corresponds to your github repo. Add the files right at the root of your repo, not within a subfolder.
+15. Go to my [angular projects github repo](https://github.com/Swolebrain/ng-starter-projects) and do one of them. Don't clone the repository, but rather add all the files to the folder which corresponds to your github repo. Add the files right at the root of your repo, not within a subfolder. Make sure you upload it to fvi-grad.com and also to a github repository.

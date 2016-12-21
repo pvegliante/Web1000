@@ -33,4 +33,10 @@ We also discuss DeMorgan's laws and distribution, then we start on the day 1 wor
 Big Oh review, recursion, binary search. We cover recursion and binary search using khan academy. For recursion exercises, we use factorial, exponentiation, and Fibonacci. During the second half of the class we solve skill-matched exercises.
 
 #Day 7
-Go over bubblesort, mergesort, Euclid's GCD, and quiz1. 
+Go over bubblesort, mergesort, Euclid's GCD, and quiz1.
+
+#Day 8
+Cover basics of graph theory and do a project, for instance the connect 4 game or the sim game.
+
+#Day 9
+Cover BST, Stacks, queues, and do the [space station project](space-station.md).
