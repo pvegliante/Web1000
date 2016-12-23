@@ -36,7 +36,7 @@ Big Oh review, recursion, binary search. We cover recursion and binary search us
 Go over bubblesort, mergesort, Euclid's GCD, and quiz1.
 
 #Day 8
-Cover basics of graph theory and do a project, for instance the connect 4 game or the sim game.
+Cover basics of graph theory and do a project, for instance the [connect 4 game](http://www.swolebrain.com/connect4) or the [sim game](http://www.swolebrain.com/sim-game).
 
 #Day 9
 Cover BST, Stacks, queues, and do the [space station project](space-station.md).
