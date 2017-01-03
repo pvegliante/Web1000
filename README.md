@@ -16,11 +16,12 @@
 3. Finish board game
 4. Intro to angularjs: puppy clicker, quote of the day, and quote of the day with custom directive.
 5. More angularJS exercises (codecademy)
-6. Review of big oh, recursion, binary search.
-7. Quicksort, arrays in low level languages (contiguous memory of immutable size), arraylists, linked lists (interface and implementation). Define interfaces for stacks and queues. Cover BSTs as done in the day7 folder, and then cover AVL trees with left rotation and right rotation. Use MIT open courseware video for AVL trees.
-8. Assessment on angular and data structures
-9. Khan academy graph representation, breadth first search, [Depth First Search]http://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm, https://www.youtube.com/watch?v=tlPuVe5Otio
+6. Review of big oh, recursion, binary search, bubblesort, mergesort.
+7. Arrays in low level languages (contiguous memory of immutable size), arrays in JS, linked lists (interface and implementation). Define interfaces for stacks and queues. Go over bubblesort, mergesort, Euclid's GCD, and quiz1.
+8. Cover BST, Stacks, queues, and do the [space station project](space-station.md).
+9. Khan academy graph representation, breadth first search, [Depth First Search]http://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm, https://www.youtube.com/watch?v=tlPuVe5Otio and Graph Theory Game.
 10. Sudoku Project
+11. Sudoku Project (continued)
 12. Final exam on angular and data structures
 
 #Day 1
@@ -36,7 +37,7 @@ Big Oh review, recursion, binary search. We cover recursion and binary search us
 Go over bubblesort, mergesort, Euclid's GCD, and quiz1.
 
 #Day 8
-Cover basics of graph theory and do a project, for instance the [connect 4 game](http://www.swolebrain.com/connect4) or the [sim game](http://www.swolebrain.com/sim-game).
+Cover BST, Stacks, queues, and do the [space station project](space-station.md).
 
 #Day 9
-Cover BST, Stacks, queues, and do the [space station project](space-station.md).
+Cover basics of graph theory and do a project, for instance the [connect 4 game](http://www.swolebrain.com/connect4) or the [sim game](http://www.swolebrain.com/sim-game).
