@@ -1,8 +1,8 @@
 #WEB1000 (Logic/CS 1)
 
 #Homework
-1.
-2.
+1. Solve 10 problems on codewars.com
+2. Join the Florida Vocational Institute clan on codewars.
 
 #Grading
 * 10% Attendance
@@ -12,8 +12,8 @@
 
 #Summary
 1. Big oh notation, boolean algebra, demorgan's laws. Explain everything needed for the worksheet and then have the students complete the [day 1 worksheet](day1.js)
-2. Introduce the board game project. Sample code: https://github.com/Swolebrain/board-game
-3. Finish board game
+2. Introduce the Infinite runner game project. Sample Code: http://swolebrain.com/pixel-runner/
+3. Finish runner game
 4. Intro to angularjs: puppy clicker, quote of the day, and quote of the day with custom directive.
 5. More angularJS exercises (codecademy)
 6. Review of big oh, recursion, binary search, bubblesort, mergesort.
@@ -40,4 +40,4 @@ Go over bubblesort, mergesort, Euclid's GCD, and quiz1.
 Cover BST, Stacks, queues, and do the [space station project](space-station.md).
 
 #Day 9
-Cover basics of graph theory and do a project, for instance the [connect 4 game](http://www.swolebrain.com/connect4) or the [sim game](http://www.swolebrain.com/sim-game).
+Cover basics of graph theory and do a project, for instance the [connect 4 game](http://www.swolebrain.com/connect4), the [sim game](http://www.swolebrain.com/sim-game), or the [peg game](http://www.joenord.com/puzzles/peggame/).
