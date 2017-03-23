@@ -1,4 +1,4 @@
-#Quiz 1
+# Quiz 1
 
 1. An angular directive is:
   1. The same thing as a Controller
@@ -15,15 +15,7 @@
   ```
   How do you bind this angular module to a particular portion of your html page (for instance the body tag)?
 
-4. Run Euclid’s GCD algorithm for the following pairs of numbers. Show work.
-  1.	10, 99
-  2.	12, 128
-  3.	65536, 1024
-  4.	24, 40
-  5.	58, 57
-  6.	32, 48
-  7.	44, 121
-
+4. Write a **recursive** function which receives an array and returns the sum of the elements of the array.
 
 
 5.	Given two temperatures, return true if one is less than 0 and the other is greater than 100.  
@@ -41,8 +33,10 @@
   b.	front22("Ha") → "HaHaHa"  
   c.	front22("abc") → "ababcab"  
 
-8. Solve https://codility.com/programmers/lessons/3-time_complexity/frog_jmp/
+8. Write an angular-based web form with two text inputs and one button. Label your inputs "name" and "phone." When clicked, the button should log the contents of the text input to the console.
+
+9. (Optional) Solve https://codility.com/programmers/lessons/3-time_complexity/frog_jmp/
   Submit the screenshot of your solution after being put through the codility grader.
 
-9. Solve https://codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
+10. (Optional) Solve https://codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
   Submit a screenshot of your solution after being put through the codility grader.
