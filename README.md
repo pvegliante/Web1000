@@ -12,11 +12,11 @@
 
 #Summary
 1. Big oh notation, boolean algebra, demorgan's laws. Explain everything needed for the worksheet and then have the students complete the [day 1 worksheet](day1.js)
-2. Introduce the Infinite runner game project. Sample Code: http://swolebrain.com/pixel-runner/
-3. Finish runner game
-4. Intro to angularjs: puppy clicker, quote of the day, and quote of the day with custom directive.
-5. More angularJS exercises (codecademy)
-6. Review of big oh, recursion, binary search, bubblesort, mergesort.
+2. Need new project
+3. Intro to angularjs: puppy clicker, quote of the day, and quote of the day with custom directive.
+4. More angularJS exercises (codecademy)
+5. Review of big oh, recursion, binary search, bubblesort, mergesort.
+6. Exam 1
 7. Arrays in low level languages (contiguous memory of immutable size), arrays in JS, linked lists (interface and implementation). Define interfaces for stacks and queues. Go over bubblesort, mergesort, Euclid's GCD, and quiz1.
 8. Cover BST, Stacks, queues, and do the [space station project](space-station.md).
 9. Khan academy graph representation, breadth first search, [Depth First Search]http://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm, https://www.youtube.com/watch?v=tlPuVe5Otio and Graph Theory Game.
