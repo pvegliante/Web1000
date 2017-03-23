@@ -16,7 +16,7 @@
   findInArray(a, 9001)
 ```
 
-##BINARY SEARCH
+## Binary Search
 
 ```javascript
   function binSearch(arr, e){
